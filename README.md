@@ -41,8 +41,12 @@ docker compose up -d --build
 
 ⚠️ O compose expõe as portas 9999 para o load balancer e 27017 para o MongoDB. Garanta que as mesmas estejam livres antes de subir os containers.
 
-## Documentação da API
+## Resultado dos testes
 
+![Resultados](img/tests.png)
+
+
+## Documentação da API
 
 ![POST](https://placehold.co/70x30/7e3dbf/white/?text=POST&font=Montserrat) `/clientes/{ClienteId}/transacoes`
 
