@@ -1,4 +1,4 @@
-<h1 align="center">Rinha de Backend 2014/Q1 - Implementação</h1>
+<h1 align="center">Rinha de Backend 2024/Q1 - Implementação</h1>
 
 <table border=0>
 <tr>
